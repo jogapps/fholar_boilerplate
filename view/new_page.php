@@ -1,0 +1,1 @@
+<h1>I'm <?= $name['full'] ?>, i am <?= $name['age'] ?> years old</h1>
